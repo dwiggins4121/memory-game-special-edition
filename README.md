@@ -1,2 +1,2 @@
 # memory-game-special-edition
-my take on the memory game
+Im planning to expand on this memory-game to make it something of my own and learn on the way.
